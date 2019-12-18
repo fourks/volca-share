@@ -21,7 +21,7 @@ gem 'loofah', '~> 2.2.3'
 gem 'mongoid'
 gem 'mongoid-simple-tags'
 gem 'rails', '5.1.6.2'
-gem 'rack', '~> 2.0.6'
+gem 'rack', '~> 2.0.8'
 gem 'rails-html-sanitizer', '~> 1.0.4'
 gem 'recaptcha', '4.1.0', require: 'recaptcha/rails'
 gem 'rubocop', '~> 0.66.0', require: false

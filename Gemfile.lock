@@ -199,7 +199,7 @@ GEM
     psych (3.1.0)
     public_suffix (3.0.2)
     puma (3.11.2)
-    rack (2.0.7)
+    rack (2.0.8)
     rack-protection (2.0.3)
       rack
     rack-test (1.1.0)
@@ -384,7 +384,7 @@ DEPENDENCIES
   mongoid-simple-tags
   poltergeist
   puma
-  rack (~> 2.0.6)
+  rack (~> 2.0.8)
   rails (= 5.1.6.2)
   rails-controller-testing
   rails-html-sanitizer (~> 1.0.4)
